@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  },
+  "name": "webgl-fluid-simulation",
+  "description": "[Play here](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)",
+  "version": "1.0.0",
+  "main": "dat.gui.min.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fXrazor/WebGL-Fluid-Simulation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fXrazor/WebGL-Fluid-Simulation/issues"
+  },
+  "homepage": "https://github.com/fXrazor/WebGL-Fluid-Simulation#readme"
+}
